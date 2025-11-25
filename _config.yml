@@ -101,6 +101,9 @@ share-links-active:
   vk: false
   reddit: false
 
+# To not show the posts in the blog 
+show_posts: false
+
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "MyWebsite.com"
