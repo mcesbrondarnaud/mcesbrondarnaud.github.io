@@ -285,7 +285,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      #layout: "post"
+      layout: "none"
       #comments: true  # add comments to all blog posts
       #social-share: true # add social media sharing buttons to all blog posts
   -
